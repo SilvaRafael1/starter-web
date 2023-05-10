@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rafael Augusto da Silva - vamos gremio
 
 # THANKS
 
