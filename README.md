@@ -9,3 +9,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 KKKKKKK
+
+
+### Copyright
+2023 Rafael Augusto da Silva
