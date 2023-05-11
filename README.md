@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Adding a line for rebasing example, then more changes from my feature, more 1 GREMIO HERE
+This repository is for showing how Git and GitHub work. Adding a line for rebasing example, then more changes from my feature, more 1 GREMIO HERE, VAMOS TRI
 
 ## Introducion
 ## Purpose
